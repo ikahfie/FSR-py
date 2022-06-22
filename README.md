@@ -1,2 +1,2 @@
-# py-AMD-FSR
+# FSR-py
 Python Implementation of AMD FSR
